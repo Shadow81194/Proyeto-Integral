@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>EXTRAS (1)ooo/EXTRAS/800px-CNE_logo.svg.png</file>
+        <file>EXTRAS (1)ooo/EXTRAS/Andrés_Arauz.jpg</file>
+        <file>EXTRAS (1)ooo/EXTRAS/Andrés_Arauz_(cropped).jpg</file>
+        <file>EXTRAS (1)ooo/EXTRAS/caja-de-votacion.png</file>
+        <file>EXTRAS (1)ooo/EXTRAS/cropped-cne-elecciones2021.png</file>
+        <file>EXTRAS (1)ooo/EXTRAS/Econ._Andrés_Arauz.jpg</file>
+        <file>EXTRAS (1)ooo/EXTRAS/LASSO.jpg</file>
+        <file>EXTRAS (1)ooo/EXTRAS/logo-cne-icon.png</file>
+        <file>EXTRAS (1)ooo/EXTRAS/signo-de-exclamacion.png</file>
+        <file>EXTRAS (1)ooo/EXTRAS/votacion-manual.png</file>
+        <file>EXTRAS (1)ooo/EXTRAS/Andrés_Arauz_Galarza_2021.png</file>
+        <file>EXTRAS (1)ooo/EXTRAS/Arauz-presidente2.jpg</file>
+    </qresource>
+</RCC>
